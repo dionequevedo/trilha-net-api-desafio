@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using TrilhaApiDesafio.Models;
+using TrilhaApiDesafio.Entities;
 
 namespace TrilhaApiDesafio.Context
 {
